@@ -1,6 +1,6 @@
 import React from 'react'
 
-//function conponent
+//function component
 function Child(props) {
     return (
         <div>
